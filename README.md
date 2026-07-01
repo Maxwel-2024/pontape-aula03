@@ -11,3 +11,9 @@ Para dominar a tecnologia mais visada no ramo de dados e inteligencia artificial
 - meta 1: Dominar a linguagem
 - meta 2: programar de forma conscistente 
 - meta 3: usar a tecnologia para criar sistemas de gerenciamento de dados e para usar com IA
+
+## Status atual 
+✅ Aula 0 — Aquecimento 
+✅ Aula 1 — Configurando ambiente 
+✅ Aula 2 — Ambientes virtuais 
+✅ Aula 3 — Git e GitHub
