@@ -1,1 +1,1 @@
-Testando uma branch paralela ao Main
+Testando uma branch paralela ao Main e depois merge
